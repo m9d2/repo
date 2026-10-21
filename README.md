@@ -1,7 +1,7 @@
-# NetSpeedStatus APT Repository
+# m9d2 APT Repository
 
-Dopamine rootless package source for NetSpeedStatus.
+Personal jailbreak package source. NetSpeedStatus is built as a RootHide-compatible package from [`m9d2/network-speed`](https://github.com/m9d2/network-speed).
 
-Add this URL in Sileo: **https://blog.m9d2.cn/repo/**
+Add this URL in Sileo or Zebra: **https://blog.m9d2.cn/repo/**
 
-The package targets iOS/iPadOS 15.0+ and is built for arm64/arm64e.
+Pushing to `main` builds the latest NetSpeedStatus source with RootHide Theos, replaces its package in `debs/`, and regenerates the APT indexes. The package targets iOS 15.0+ on RootHide arm64e devices.

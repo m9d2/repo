@@ -1,0 +1,14 @@
+Package: com.example.netspeedstatus
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: NetSpeedStatus
+Installed-Size: 172
+Depends: firmware (>= 15.0)
+Section: Tweaks
+Description: Display real-time upload and download speed in the status bar.
+Filename: ./debs/com.example.netspeedstatus_1.3.4_iphoneos-arm64.deb
+Size: 8580
+MD5sum: 04d66900f1b52e5770d28b5c5cf3cf11
+SHA1: e4813718e55e38fcfcaf1d6dfe86aca306c1094c
+SHA256: f26a69e2b697f6ac2f8e452bf06b46f04e230eefc4b406006904a96e5025f34b
+

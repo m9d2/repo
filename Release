@@ -1,0 +1,7 @@
+Origin: m9d2
+Label: NetSpeedStatus
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: NetSpeedStatus Dopamine rootless package repository

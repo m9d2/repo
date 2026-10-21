@@ -1,6 +1,6 @@
 # m9d2 APT Repository
 
-Personal jailbreak package source. NetSpeedStatus is built as a RootHide-compatible package from [`m9d2/network-speed`](https://github.com/m9d2/network-speed).
+Personal jailbreak package source. 网速显示 is built as a RootHide-compatible package from [`m9d2/network-speed`](https://github.com/m9d2/network-speed).
 
 Add this URL in Sileo or Zebra: **https://blog.m9d2.cn/repo/**
 

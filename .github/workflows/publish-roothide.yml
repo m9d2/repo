@@ -40,15 +40,15 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p debs
-          find debs -maxdepth 1 -type f \( -name 'com.example.netspeedstatus_*.deb' -o -name 'com.m9d2.netspeedstatus_*.deb' \) -delete
-          cp network-speed/packages/com.m9d2.netspeedstatus_*.deb debs/
+          find debs -maxdepth 1 -type f \( -name 'com.example.netspeedstatus_*.deb' -o -name 'com.m9d2.netspeedstatus_*.deb' -o -name 'com.m9d2.wangsu_*.deb' \) -delete
+          cp network-speed/packages/com.m9d2.wangsu_*.deb debs/
           python3 network-speed/scripts/build_repo.py .
 
       - name: Upload built package
         uses: actions/upload-artifact@v4
         with:
           name: NetSpeedStatus-roothide-deb
-          path: debs/com.m9d2.netspeedstatus_*.deb
+          path: debs/com.m9d2.wangsu_*.deb
           if-no-files-found: error
 
       - name: Publish package and indexes to this repository

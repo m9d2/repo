@@ -12,5 +12,5 @@ Architecture: iphoneos-arm64e
 Version: 1.4.2
 Installed-Size: 348
 Filename: debs/com.m9d2.wangsu_1.4.2_iphoneos-arm64e.deb
-Size: 15190
-SHA256: 95b768ef5e0e0e472390101f0dbeb428dda36ec8d8212be4e9d1487b7482e6f9
+Size: 15208
+SHA256: 24da94e89d2d387757261c3f7cd6e243f75f9fa42b2a04a4e0942685e01d049a

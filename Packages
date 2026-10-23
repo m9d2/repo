@@ -9,8 +9,8 @@ Conflicts: com.m9d2.netspeedstatus
 Replaces: com.m9d2.netspeedstatus
 Tag: role::tweak, roothide::compatible
 Architecture: iphoneos-arm64e
-Version: 1.4.3
+Version: 1.4.4
 Installed-Size: 352
-Filename: debs/com.m9d2.wangsu_1.4.3_iphoneos-arm64e.deb
-Size: 17880
-SHA256: d9be8fd2b23e2ab6856499334b55c6420b7df5bde3b8cb0267c7a95642cc5a01
+Filename: debs/com.m9d2.wangsu_1.4.4_iphoneos-arm64e.deb
+Size: 19432
+SHA256: feebf4141e3ae4e262bc813f50b7128a3fab9e559bc2b57f033fb7e029492c35
